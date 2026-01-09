@@ -37,7 +37,7 @@ I am particularly interested in **backend logic**, **security implementation**, 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![TanStack Query]([https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white](https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query))
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
