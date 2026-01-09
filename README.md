@@ -7,6 +7,7 @@
   </p>
   
   <a href="mailto:sarindararith5540@gmail.com">
+    <p>sarindararith5540@gmail.com</p>
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/drarith">
