@@ -2,7 +2,6 @@
   <h1>Hi, I’m Sarin Dararith</h1>
   <h3>Full-Stack Developer based in Cambodia 🇰🇭</h3>
   <p>
-    <b>Open to Opportunities</b><br>
     <i>Building practical, secure, and user friendly web applications that solve real community problems.</i>
   </p>
   
