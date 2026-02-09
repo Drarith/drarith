@@ -103,16 +103,6 @@ I am particularly interested in **backend logic**, **security implementation**, 
 
 ---
 
-## Why Work With Me?
-
-* **Real-World Focus:** I don't just follow tutorials; I build products that solve actual business needs.
-* **Problem Solver:** I love the struggle of debugging and finding efficient solutions.
-* **Security Minded:** I prioritize validation, authentication, and safe data handling in every application.
-* **Adaptable:** Whether it's the Flask ecosystem or the MERN stack, I learn tools quickly to get the job done.
-
----
-
 <div align="center">
-  <p><i>Open to Full-time roles and Open Source contributions.</i></p>
   <p><b>Contact:</b> <a href="mailto:sarindararith5540@gmail.com">sarindararith5540@gmail.com</a></p>
 </div>
